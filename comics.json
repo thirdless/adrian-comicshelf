@@ -1,0 +1,147 @@
+{
+    "collections": [
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        },
+        {
+            "id": "spdr10",
+            "titlu": "Spiderman Comic Collection #10",
+            "autor": "Peter Parker",
+            "editura": "Marvel",
+            "locatie": "Cutie mare spate"
+        }
+    ],
+    "subcollections": [
+        {
+            "id": "spdr10-1",
+            "colectie": "spdr10",
+            "titlu": "Editia nr. 1"
+        },
+        {
+            "id": "spdr10-2",
+            "colectie": "spdr10",
+            "titlu": "Editia nr. 2"
+        },
+        {
+            "id": "spdr10-3",
+            "colectie": "spdr10",
+            "titlu": "Editia nr. 3"
+        }
+    ]
+}
